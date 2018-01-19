@@ -1,3 +1,4 @@
+#Hopefully, soon, I can get around to playing with the source code, and developing mods for the game.
 
 Here it is, at long last.  The DOOM source code is released for your
 non-profit use.  You still need real DOOM data to work with this code.
